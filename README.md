@@ -21,7 +21,7 @@
 Working at the intersection of ML and computational science — where correctness is verifiable and reproducibility is enforced by architecture.
 
 Focus: Neural ODEs, modular simulation pipelines, structured validation frameworks for scientific Python.  
-Currently contributing toward HNN-Core (GSoC 2026) and research-grade tooling in computational neuroscience.
+Currently studying Deep learning and computational tools in neuroscience.
 
 ---
 
