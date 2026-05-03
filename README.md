@@ -50,7 +50,7 @@ Selected as a **GSoC 2026 contributor** under **INCF** to improve biological rea
 
 Working at the intersection of ML and computational neuroscience — where correctness is verifiable and reproducibility is enforced by architecture.
 
-GSoC 2026 contributor to **HNN-Core** (INCF), shipping production-quality changes to NEURON-based synaptic simulation internals. Five pre-GSoC PRs merged covering pathlib migration, test modularization, fixture standardization, assert-to-exception replacement, and mesh-shape edge case coverage.
+GSoC 2026 contributor to **HNN-Core** (INCF), shipping production-quality changes to NEURON-based synaptic simulation internals.
 
 Focus: Neural ODEs · Modular simulation pipelines · Structured validation frameworks for scientific Python
 
